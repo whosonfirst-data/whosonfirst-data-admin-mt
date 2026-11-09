@@ -210,7 +210,7 @@
     "wof:belongsto":[
         102191581,
         85633331,
-        85686947
+        1175612955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -230,13 +230,13 @@
             "continent_id":102191581,
             "country_id":85633331,
             "locality_id":1125916553,
-            "region_id":85686947
+            "region_id":1175612955
         }
     ],
     "wof:id":1125916553,
     "wof:lastmodified":1690846249,
     "wof:name":"Mellie\u0127a",
-    "wof:parent_id":85686947,
+    "wof:parent_id":1175612955,
     "wof:placetype":"locality",
     "wof:population":5976,
     "wof:population_rank":5,

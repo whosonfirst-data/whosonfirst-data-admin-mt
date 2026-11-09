@@ -208,9 +208,8 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        101752469,
         85633331,
-        85687021
+        1175612941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -229,14 +228,13 @@
         {
             "continent_id":102191581,
             "country_id":85633331,
-            "locality_id":101752469,
-            "region_id":85687021
+            "region_id":1175612941
         }
     ],
     "wof:id":1175612951,
     "wof:lastmodified":1690846226,
     "wof:name":"Bormla",
-    "wof:parent_id":85687021,
+    "wof:parent_id":1175612941,
     "wof:placetype":"locality",
     "wof:population":6096,
     "wof:population_rank":5,

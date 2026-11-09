@@ -188,7 +188,6 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        101850019,
         85633331,
         85687013
     ],
@@ -209,7 +208,6 @@
         {
             "continent_id":102191581,
             "country_id":85633331,
-            "locality_id":101850019,
             "region_id":85687013
         }
     ],
