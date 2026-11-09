@@ -54,7 +54,7 @@
         "wk:page":"Bor%C4%A1_in-Nadur"
     },
     "wof:country":"MT",
-    "wof:geomhash":"ef2ca712c1012a3d535379b69d2e3dc7",
+    "wof:geomhash":"5d4c4e81d23d63de216057c4dd4d7980",
     "wof:hierarchy":[
         {
             "country_id":85633331,
@@ -77,5 +77,5 @@
     14.53028,
     35.83389000000001
 ],
-  "geometry": {"coordinates":[14.53028,35.83389000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.53028,35.83389],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":2562420
     },
     "wof:country":"MT",
-    "wof:geomhash":"c6a52a2180ef88e7b77f1afd365e51da",
+    "wof:geomhash":"27ec38345f57fa81b1c67da005ae0c2a",
     "wof:hierarchy":[
         {
             "country_id":85633331,
@@ -65,5 +65,5 @@
     14.51472,
     35.87110999999999
 ],
-  "geometry": {"coordinates":[14.51472,35.87110999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.51472,35.87111],"type":"Point"}
 }

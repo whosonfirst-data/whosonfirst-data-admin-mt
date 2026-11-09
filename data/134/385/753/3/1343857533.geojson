@@ -47,7 +47,7 @@
         "gn:id":2562897
     },
     "wof:country":"MT",
-    "wof:geomhash":"d5c9b85644917a1fa1b39891142cdbe4",
+    "wof:geomhash":"8c5837c0cbc3ec4a08916b038b5dbefe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     14.535,
     35.83389000000001
 ],
-  "geometry": {"coordinates":[14.535,35.83389000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.535,35.83389],"type":"Point"}
 }
