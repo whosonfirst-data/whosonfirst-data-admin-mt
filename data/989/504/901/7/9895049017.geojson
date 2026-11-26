@@ -1,0 +1,73 @@
+{
+  "id": 9895049017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1909,36.05207,14.1909,36.05207",
+    "geom:latitude":36.05207,
+    "geom:longitude":14.1909,
+    "gn:population":121,
+    "iso:country":"MT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11856601: name \"Dwejra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11856601"
+        },
+        {
+            "citation":"GeoNames populated place 11856601: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11856601"
+        },
+        {
+            "citation":"GeoNames populated place 11856601: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11856601"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686995 (San Lawrenz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633331,
+        85686995,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11856601
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"86217705d2f9fd59a33a7562e2706b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":9895049017,
+            "region_id":85686995
+        }
+    ],
+    "wof:id":9895049017,
+    "wof:lastmodified":1795735226,
+    "wof:name":"Dwejra",
+    "wof:parent_id":85686995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1909,
+    36.05207,
+    14.1909,
+    36.05207
+],
+  "geometry": {"coordinates":[14.1909,36.05207],"type":"Point"}
+}

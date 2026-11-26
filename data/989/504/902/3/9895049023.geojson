@@ -1,0 +1,73 @@
+{
+  "id": 9895049023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20658,36.05509,14.20658,36.05509",
+    "geom:latitude":36.05509,
+    "geom:longitude":14.20658,
+    "gn:population":56,
+    "iso:country":"MT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11856611: name \"Pawluzzu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11856611"
+        },
+        {
+            "citation":"GeoNames populated place 11856611: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11856611"
+        },
+        {
+            "citation":"GeoNames populated place 11856611: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11856611"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686995 (San Lawrenz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633331,
+        85686995,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11856611
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"3f23b2373438a48e8a53ce81e08b8e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":9895049023,
+            "region_id":85686995
+        }
+    ],
+    "wof:id":9895049023,
+    "wof:lastmodified":1795735226,
+    "wof:name":"Pawluzzu",
+    "wof:parent_id":85686995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20658,
+    36.05509,
+    14.20658,
+    36.05509
+],
+  "geometry": {"coordinates":[14.20658,36.05509],"type":"Point"}
+}

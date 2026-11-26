@@ -1,0 +1,73 @@
+{
+  "id": 9895049021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20089,36.05767,14.20089,36.05767",
+    "geom:latitude":36.05767,
+    "geom:longitude":14.20089,
+    "gn:population":76,
+    "iso:country":"MT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11856608: name \"Ghonoq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11856608"
+        },
+        {
+            "citation":"GeoNames populated place 11856608: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11856608"
+        },
+        {
+            "citation":"GeoNames populated place 11856608: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11856608"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686995 (San Lawrenz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633331,
+        85686995,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11856608
+    },
+    "wof:country":"MT",
+    "wof:geomhash":"de928f7c9593b727bffdb31e4d319989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":9895049021,
+            "region_id":85686995
+        }
+    ],
+    "wof:id":9895049021,
+    "wof:lastmodified":1795735226,
+    "wof:name":"Ghonoq",
+    "wof:parent_id":85686995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20089,
+    36.05767,
+    14.20089,
+    36.05767
+],
+  "geometry": {"coordinates":[14.20089,36.05767],"type":"Point"}
+}
